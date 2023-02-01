@@ -1,0 +1,116 @@
+This is Krishna Kumar 
+
+kindly ping me on whatsapp: 8700103696
+
+with details like:
+
+name:
+ducat ID:
+batch time:
+email:
+
+Start
+clothes
+detergent
+water
+spins
+drain
+water
+drain
+dry
+stop
+
+Programming: set of code or instruction pass to a machine to get any specific output.
+  High level language(Hindi, english,french, german , italian, etc... 6000)  ---> 
+	low level language language(python, java,php,c++,c,sql,etc... 9000+)  in the form of binary number(0,1)
+
+Python:
+
+Guido Van Rossum
+
+Project in CWI, Netherland---> project (Amoeba OS), ABC programming 
+
+Python introduce in market in 1991 
+
+Monty Python Flying Circus.
+
+Python 
+
+
+Advantange:
+
+Recommendation
+
+Machine learning 
+
+Deep learning 
+
+python developer 
+
+web developer 
+
+python scripting 
+
+Data scientist
+
+Data analyst
+
+etc...
+
+
+Disadvantage
+
+execution time high
+
+mobile application is a bad choice using python
+
+
+Python:
+
+youtube
+
+Nasa
+
+Quara
+
+etc...
+
+Setup//Installer
+
+IDLE:		(Integrated development Learning environment)
+pip: 		pip is a dependency manager help us to get third 
+		party package
+
+Interpreter: 	Interperter help to convert high level
+		language(English,hindi,etc) to Binary language
+		(Machine language, 0,1)
+
+Standard library:
+Documentation:
+
+
+Next topic
+----------
+
+anaconda---> 
+
+pycharm
+
+visual studio code
+
+Google colab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
