@@ -1,2 +1,1 @@
-# WD_7PM_Python-11-1-2023-
-This is a file dedicated to Python, Mysql, Sql batch...
+
