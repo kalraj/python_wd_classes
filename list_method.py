@@ -103,3 +103,9 @@ for x in list_loop:
     print(x)
 for x in range(len(list_loop)):
     print(list_loop[x])
+#during pushing file into git occur this error ! [rejected]        master -> master (fetch first)
+# error: failed to push some refs to 'https://github.com/kalraj/python_wd_classes.git' then fetch the origin master in a another branch and make rebase then push it  abd delete the branch 
+# git fetch origin master:temp
+#git rebase temp
+#git push origin HEAD:master
+#git branch -D temp
